@@ -2,10 +2,9 @@
 #TIPO DE OPERACAO (+,-,*,/)
 
 n1 = float(input("digite o primeiro número:"))
-n2 = float(input("digite o primeiro segundo:"))
+n2 = float(input("digite o segundo número:"))
 operacao =input("informe a operação:")
  
-
 if  operacao== "+":
    print(n1+n2)
 
